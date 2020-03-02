@@ -1,7 +1,7 @@
 ---
 templateKey: pricing-page
 title: Our Services
-image: /img/internet.png
+image: /img/service.jpg
 pricing:
   description: >-
     Developed an integrated environment and provides teams the automation to
