@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'DataTech Inc', // Site title.
   siteTitleAlt: 'Software consulting', // Alternative site title for SEO.
   siteLogo: '/icons/Datatech_logo.png', // Logo used for SEO and manifest.
-  siteUrl: 'https://datatechinc.ca', // Domain of your website without pathPrefix.
+  siteUrl: 'https://netlify-gatsby-datatechinc.netlify.com', // Domain of your website without pathPrefix.
   pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
   siteDescription: 'Software services and consulting provider', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml',
