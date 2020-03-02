@@ -1,7 +1,7 @@
 ---
-templateKey: pricing-page
-title: Pricing
-meta_title: Pricing | DataTech Inc
+templateKey: Our services
+title: Services
+meta_title: Services | DataTech Inc
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
