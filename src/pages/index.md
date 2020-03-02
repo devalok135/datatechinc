@@ -56,22 +56,8 @@ offerings:
         combines the power of data warehousing, the flexibility of big data
         platforms and the elasticity of the cloud at a fraction of the cost of
         traditional solutions.
-# testimonials:
-#   - author: Vaibhav Sharma
-#     quote: >-
-#       Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed
-#       diam luctus pretium.  Sed quis egestas libero. Vestibulum nec venenatis
-#       ligula. 
-#   - author: Subarashi San
-#     quote: >-
-#       Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
-#       dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
-#       elit.
+# testimonials: []
 meta_title: Home | DataTech Inc
-meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+meta_description: DataTech Inc service
 ---
 
