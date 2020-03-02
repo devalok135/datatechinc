@@ -21,7 +21,7 @@ offerings:
         factors that a senior level or top management candidate need to possess.
         We, at Waltair exactly provide you with such people saving your time and
         energy.
-    - image: /img/coffee-gear.png
+    - image: /img/team.png
       text: >
         Managed IT Service
 
@@ -37,31 +37,25 @@ offerings:
         reduces cost of ownership as well. This brings more value and helps to
         scale your business. Experience our IT services integrated with
         strategy, the latest resources and secured business methodology.
-    - image: /img/tutorials.png
+    - image: /img/download.png
       text: >
-        Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus
-        vitae sollicitudin  pharetra, ipsum augue tristique urna, in rhoncus
-        quam tortor eget sem. Maecenas eu  pharetra orci, ut malesuada nisl.
-        Aliquam erat volutpat. Curabitur egestas eros tincidunt,  scelerisque
-        lectus ac, congue turpis. Fusce egestas sit amet elit et fringilla.
-        Aliquam  erat volutpat. Vivamus ultrices venenatis maximus. Donec
-        volutpat vitae quam at fringilla.  Sed luctus lacus vel tempus posuere.
-        Ut suscipit auctor tortor. Phasellus leo dui, elementum  non
-        sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet
-        porttitor vehicula,  quam augue pretium erat, at commodo nisl tellus non
-        risus.
-    - image: /img/meeting-space.png
+        Cloud computing is the delivery of computing services—including servers,
+        storage, databases, networking, software, analytics, and
+        intelligence—over the Internet (“the cloud”) to offer faster innovation,
+        flexible resources, and economies of scale. You typically pay only for
+        cloud services you use, helping lower your operating costs, run your
+        infrastructure more efficiently and scale as your business needs change.
+    - image: /img/data.png
       text: >
-        Vestibulum libero lectus, dignissim eget magna sit amet, malesuada
-        tincidunt mi. Vivamus  sed erat iaculis mauris efficitur vehicula.
-        Aliquam sed urna at tellus ullamcorper  venenatis molestie ut mi. Duis
-        vel libero ac lectus cursus tempus. Nullam in dictum felis.  Nam sed
-        laoreet turpis. Sed pretium urna consequat lorem tincidunt, ac
-        scelerisque nisi  sodales. Cras tristique laoreet tempor. Mauris vitae
-        dolor eu mauris malesuada cursus.  Praesent elit lectus, iaculis vel
-        odio vitae, bibendum auctor lacus. Suspendisse potenti.  In tempor,
-        massa quis euismod convallis, felis elit sodales urna, at aliquet mi
-        elit auctor  risus.
+        To make modern data warehousing effective, affordable and accessible to
+        all data users Waltair enables the data-driven enterprise with instant
+        elasticity, secure data sharing and per-second pricing, across multiple
+        clouds. Our core team makes sure to make modern data warehousing
+        effective, affordable and accessible to all data users. Waltair
+        developed a new product with a new built-for-the-cloud architecture that
+        combines the power of data warehousing, the flexibility of big data
+        platforms and the elasticity of the cloud at a fraction of the cost of
+        traditional solutions.
 testimonials:
   - author: Vaibhav Sharma
     quote: >-
