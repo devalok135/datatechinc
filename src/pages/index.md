@@ -1,24 +1,26 @@
 ---
 templateKey: home-page
 title: DataTech Inc
-heading: Lorem ipsum dolor sit amet
+heading: We're a company with high level plan to deliver best in class services
 description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+  Datatech inc here to sculpt the consultants and clients success. Objectives
+  include baseline performance, targeted performance, and an established date
+  for achieving the objective.
 offerings:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
-        sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
-        molestie sapien ornare cursus. Praesent eget volutpat est. Proin at 
-        sagittis ex. Duis quis dui magna. Nullam urna purus, blandit vitae
-        tincidunt ut,  scelerisque eu sem. Etiam porttitor elit eget mi luctus,
-        vitae blandit enim pretium.  Aenean nec hendrerit leo, a bibendum magna.
-        In hac habitasse platea dictumst.  Suspendisse sapien magna, vestibulum
-        non vehicula id, pellentesque in ante. Nullam  sed auctor tellus. Sed
-        ipsum sem, dapibus nec eros in, feugiat sagittis mi.  Nullam et dui
-        interdum, varius nibh eu, efficitur metus.
+    - image: /img/help.png
+      text: >-
+        Having a good leader on board is always equivalent to the successful
+        growth of the company. Hence, it is very important to have a good leader
+        to form a great team. Leadership hiring is a process of recruiting a
+        senior level candidate for a middle or top management position.
+
+
+
+        Apart from talent, expertise, network and market research are some
+        factors that a senior level or top management candidate need to possess.
+        We, at Waltair exactly provide you with such people saving your time and
+        energy.
     - image: /img/coffee-gear.png
       text: >
         Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
