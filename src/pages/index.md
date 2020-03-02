@@ -56,7 +56,9 @@ offerings:
         combines the power of data warehousing, the flexibility of big data
         platforms and the elasticity of the cloud at a fraction of the cost of
         traditional solutions.
-# testimonials: []
+testimonials:
+  - author: Auth
+    quote: Progress
 meta_title: Home | DataTech Inc
 meta_description: DataTech Inc service
 ---
