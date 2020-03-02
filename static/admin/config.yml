@@ -1,6 +1,5 @@
 backend:
   name: git-hub
-  repo: devalok135/datatechinc
   branch: master
 
 publish_mode: editorial_workflow
