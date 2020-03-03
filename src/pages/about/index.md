@@ -4,7 +4,7 @@ title: Delivery
 meta_title: Delivery | DataTech Inc
 meta_description: >-
   Our approach would be different for each client based on the individual
-  requirement. About Us | DataTech Inc
+  requirement. Delivery | DataTech Inc
 ---
 Business growth these days depend on effective and efficient employees. As a staffing agency, our approach is to help you find the most suitable candidate who can hold the organisation together, work for the betterment of the company and therefore be a part of the success story.
 
