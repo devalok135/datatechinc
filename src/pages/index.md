@@ -1,7 +1,10 @@
 ---
 templateKey: home-page
-title: DataTech Inc
-heading: We're a company with high level plan to deliver best in class services
+title: 'WHERE DATA BECOMES INSIGHTS & INSIGHTS FUEL BUSINESS DECISIONS '
+heading: >-
+  Delivering Customer Engagement powered by AI and a 360° business view 
+  Empowering your business with a Self-Service Artificial Intelligence platform.
+  We're a company with high level plan to deliver best in class services
 description: >-
   Datatech inc here to sculpt the consultants and clients success. Objectives
   include baseline performance, targeted performance, and an established date
