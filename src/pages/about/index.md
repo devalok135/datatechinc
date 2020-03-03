@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About Us
+title: Delivery
 meta_title: About Us | DataTech Inc
 meta_description: >-
   Our approach would be different for each client based on the individual
