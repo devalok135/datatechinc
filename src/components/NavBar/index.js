@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import SearchBox from '../SearchBox'
+import Logo from '../../../datatech_logo.png'
 
 const NavBar = ({ toggleNavbar, isActive }) => (
   <StaticQuery
@@ -15,7 +16,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
       <nav className='navbar is-fixed-top' aria-label='main navigation'>
         <div className='navbar-brand'>
           <Link to='/' className='navbar-item'>
-            <strong>DataTech Inc</strong>
+            <img src={Logo} width="150" height="75" />
           </Link>
           <button
             className={`button navbar-burger ${isActive ? 'is-active' : ''}`}
