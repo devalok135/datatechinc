@@ -8,7 +8,7 @@ pricing:
     justo,  non semper odio cursus in. Curabitur ligula tortor, tristique non
     odio nec, imperdiet  mattis leo. Vivamus aliquam rhoncus tortor vitae
     convallis. Aliquam non dui nibh. Nam  a velit at enim sagittis pellentesque.
-  heading: Monthly subscriptions
+  heading: Services
   plans:
     - description: Starts with 0 and add ons
       items:
