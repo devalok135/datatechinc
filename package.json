@@ -13,7 +13,7 @@
     "clean": "rm -rf public/ .cache/"
   },
   "repository": "https://github.com/v4iv/gatsby-starter-business",
-  "author": "Vaibhav Sharma <vaibhavsharmaatwork@gmail.com>",
+  "author": "datatech inc",
   "license": "MIT",
   "private": false,
   "remarkConfig": {
@@ -48,7 +48,7 @@
     "lodash": "^4.17.15",
     "lodash-webpack-plugin": "^0.11.5",
     "netlify-cms-app": "^2.9.7",
-    "node-sass": "^4.12.0",
+    "sass": "^1.69.0",
     "prop-types": "^15.7.2",
     "query-string": "^6.8.3",
     "react": "^16.9.0",
@@ -58,6 +58,10 @@
     "react-share": "^3.0.1",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "yup": "^0.27.0"
+  },
+  "overrides": {
+    "sharp": "^0.32.6",
+    "node-sass": "npm:sass@^1.69.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
