@@ -88,13 +88,13 @@ module.exports = {
         showSpinner: false,
       },
     },
-    {
+    ...(config.googleTagManagerID ? [{
       resolve: `gatsby-plugin-google-tagmanager`,
       options: {
         id: config.googleTagManagerID,
         includeInDevelopment: false,
       },
-    },
+    }] : []),
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

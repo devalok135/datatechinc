@@ -1,11 +1,15 @@
+# --- LOCAL DEVELOPMENT (active now, run: npm start) ---
 backend:
-  name: local
+  name: proxy
+  proxy_url: http://localhost:8081/api/v1
 
-# For Netlify deployment, switch back to:
-#   name: git-gateway
+# --- NETLIFY DEPLOYMENT ---
+# When deploying, comment out proxy above and uncomment below:
+# backend:
+#   name: github
+#   repo: devalok135/datatechinc
 #   branch: master
-# and re-add:
-#   publish_mode: editorial_workflow
+# Then in Netlify dashboard: Settings > Identity > Enable > External providers > GitHub
 media_folder: static/img
 public_folder: /img
 

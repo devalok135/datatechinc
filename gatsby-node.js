@@ -93,6 +93,18 @@ exports.createPages = ({ actions, graphql }) => {
   })
 }
 
+exports.onCreateWebpackConfig = ({ actions }) => {
+  const webpack = require('webpack')
+  actions.setWebpackConfig({
+    plugins: [
+      new webpack.NormalModuleReplacementPlugin(
+        /object\.assign\/polyfill/,
+        path.resolve(__dirname, 'node_modules/object.assign/polyfill.js')
+      ),
+    ],
+  })
+}
+
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
 
