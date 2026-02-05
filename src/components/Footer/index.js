@@ -17,7 +17,7 @@ const Footer = () => {
           <p>
             {config.copyright}
           </p>
-          <p>Powered by <a href='https://www.gatsbyjs.org'>Gatsby</a> and <a href='https://www.netlifycms.org'>Netlify CMS</a></p>
+          
         </div>
       </div>
     </footer>
