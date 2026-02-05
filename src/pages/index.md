@@ -19,7 +19,7 @@ offerings:
 
         Apart from talent, expertise, network and market research are some
         factors that a senior level or top management candidate need to possess.
-        We, at Waltair exactly provide you with such people saving your time and
+        We, at DataTech exactly provide you with such people saving your time and
         energy.
     - image: /img/team.png
       text: >
@@ -48,10 +48,10 @@ offerings:
     - image: /img/data.png
       text: >
         To make modern data warehousing effective, affordable and accessible to
-        all data users Waltair enables the data-driven enterprise with instant
+        all data users DataTech enables the data-driven enterprise with instant
         elasticity, secure data sharing and per-second pricing, across multiple
         clouds. Our core team makes sure to make modern data warehousing
-        effective, affordable and accessible to all data users. Waltair
+        effective, affordable and accessible to all data users. DataTech
         developed a new product with a new built-for-the-cloud architecture that
         combines the power of data warehousing, the flexibility of big data
         platforms and the elasticity of the cloud at a fraction of the cost of
