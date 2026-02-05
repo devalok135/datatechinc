@@ -105,6 +105,18 @@ exports.onCreateWebpackConfig = ({ actions }) => {
   })
 }
 
+exports.onPostBuild = () => {
+  const fs = require('fs')
+  const configPath = path.resolve(__dirname, 'public/admin/config.yml')
+  let config = fs.readFileSync(configPath, 'utf8')
+  const mediaIdx = config.indexOf('media_folder:')
+  const prodBackend =
+    'backend:\n' +
+    '  name: git-gateway\n' +
+    '  branch: master\n'
+  fs.writeFileSync(configPath, prodBackend + config.slice(mediaIdx))
+}
+
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
 

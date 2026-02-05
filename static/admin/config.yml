@@ -1,15 +1,12 @@
 # --- LOCAL DEVELOPMENT (active now, run: npm start) ---
-backend:
-  name: proxy
-  proxy_url: http://localhost:8081/api/v1
+#backend:
+#  name: proxy
+#  proxy_url: http://localhost:8081/api/v1
 
-# --- NETLIFY DEPLOYMENT ---
-# When deploying, comment out proxy above and uncomment below:
-# backend:
-#   name: github
-#   repo: devalok135/datatechinc
-#   branch: master
-# Then in Netlify dashboard: Settings > Identity > Enable > External providers > GitHub
+# --- NETLIFY DEPLOYMENT (auto-applied by onPostBuild in gatsby-node.js) ---
+backend:
+   name: git-gateway
+   branch: master
 media_folder: static/img
 public_folder: /img
 
