@@ -15,7 +15,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
       <nav className='navbar is-fixed-top' aria-label='main navigation'>
         <div className='navbar-brand'>
           <Link to='/' className='navbar-item'>
-            <strong>DataTech Inc</strong>
+            <img src='/img/datatech_logo.png' alt='DataTech Inc' width="150" height="75" />
           </Link>
           <button
             className={`button navbar-burger ${isActive ? 'is-active' : ''}`}
